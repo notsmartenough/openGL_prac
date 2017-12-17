@@ -1,0 +1,1 @@
+gcc checker.c -lGL -lGLU -lglut -o checker

@@ -1,0 +1,1 @@
+gcc checker.c -framework OpenGL -framework GLUT -framework Cocoa -o checker
